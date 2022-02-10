@@ -1,2 +1,1 @@
-Hey Stranger!
-I Will use this repository for AproAI Tests.
+Heya, don't bother going through here, its mostly forks
